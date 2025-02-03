@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **neha06844@gmail.com**
 
